@@ -1,0 +1,4 @@
+/.vagrant
+/static
+*.pyc
+/footmali/settings/local.py
